@@ -1,0 +1,3 @@
+gspread
+jira-python
+launchpadlib
